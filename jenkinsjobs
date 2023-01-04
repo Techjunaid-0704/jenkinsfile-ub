@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('juned') {
             steps {
-                echo 'Hello World'
+                echo 'multibranch wali file'
             }
         }
     }
